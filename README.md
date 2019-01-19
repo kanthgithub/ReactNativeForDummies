@@ -1,2 +1,7 @@
 # ReactNativeForDummies
-ReactNativeForDummies
+
+## Background:
+
+
+
+## Setup:
